@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 1,
+        "totalAmount": 2021.01,
+        "createdAt": "2024-07-04T13:51:02.572Z",
+        "updatedAt": "2024-07-04T13:51:02.572Z"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 2,
+        "totalAmount": 2021.02,
+        "createdAt": "2024-07-04T13:51:12.609Z",
+        "updatedAt": "2024-07-04T13:51:12.609Z"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 3,
+        "totalAmount": 2021.03,
+        "createdAt": "2024-07-04T13:51:23.537Z",
+        "updatedAt": "2024-07-04T13:51:23.537Z"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 4,
+        "totalAmount": 2021.04,
+        "createdAt": "2024-07-04T13:51:34.870Z",
+        "updatedAt": "2024-07-04T13:51:34.870Z"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 5,
+        "totalAmount": 2021.05,
+        "createdAt": "2024-07-04T13:51:46.442Z",
+        "updatedAt": "2024-07-04T13:51:46.442Z"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 6,
+        "totalAmount": 2021.06,
+        "createdAt": "2024-07-04T13:51:55.540Z",
+        "updatedAt": "2024-07-04T13:51:55.540Z"
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 7,
+        "totalAmount": 2021.07,
+        "createdAt": "2024-07-04T13:52:10.071Z",
+        "updatedAt": "2024-07-04T13:52:10.071Z"
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 8,
+        "totalAmount": 2021.08,
+        "createdAt": "2024-07-04T13:52:26.724Z",
+        "updatedAt": "2024-07-04T13:52:26.724Z"
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 9,
+        "totalAmount": 2021.09,
+        "createdAt": "2024-07-04T13:52:41.006Z",
+        "updatedAt": "2024-07-04T13:52:41.006Z"
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 10,
+        "totalAmount": 2021,
+        "createdAt": "2024-07-04T13:52:51.913Z",
+        "updatedAt": "2024-07-04T13:52:51.913Z"
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 11,
+        "totalAmount": 2021.11,
+        "createdAt": "2024-07-04T13:53:01.836Z",
+        "updatedAt": "2024-07-04T13:53:01.836Z"
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "yearPeriod": 2021,
+        "monthPeriod": 12,
+        "totalAmount": 2021.12,
+        "createdAt": "2024-07-04T13:53:13.412Z",
+        "updatedAt": "2024-07-04T13:53:13.412Z"
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 1,
+        "totalAmount": 22.1,
+        "createdAt": "2024-07-04T13:53:39.572Z",
+        "updatedAt": "2024-07-04T13:53:39.572Z"
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 2,
+        "totalAmount": 22.2,
+        "createdAt": "2024-07-04T13:53:49.972Z",
+        "updatedAt": "2024-07-04T13:53:49.972Z"
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 3,
+        "totalAmount": 22.3,
+        "createdAt": "2024-07-04T13:54:09.510Z",
+        "updatedAt": "2024-07-04T13:54:09.510Z"
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 4,
+        "totalAmount": 22.4,
+        "createdAt": "2024-07-04T13:54:24.785Z",
+        "updatedAt": "2024-07-04T13:54:24.785Z"
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 5,
+        "totalAmount": 22.5,
+        "createdAt": "2024-07-04T13:54:34.479Z",
+        "updatedAt": "2024-07-04T13:54:34.479Z"
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 6,
+        "totalAmount": 22.6,
+        "createdAt": "2024-07-04T13:54:43.212Z",
+        "updatedAt": "2024-07-04T13:54:43.212Z"
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 7,
+        "totalAmount": 22.7,
+        "createdAt": "2024-07-04T13:54:51.762Z",
+        "updatedAt": "2024-07-04T13:54:51.762Z"
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 8,
+        "totalAmount": 22.8,
+        "createdAt": "2024-07-04T13:55:03.954Z",
+        "updatedAt": "2024-07-04T13:55:03.954Z"
+      }
+    },
+    {
+      "id": 21,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 9,
+        "totalAmount": 22.9,
+        "createdAt": "2024-07-04T13:55:12.142Z",
+        "updatedAt": "2024-07-04T13:55:12.142Z"
+      }
+    },
+    {
+      "id": 22,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 10,
+        "totalAmount": 23,
+        "createdAt": "2024-07-04T13:55:20.388Z",
+        "updatedAt": "2024-07-04T13:55:20.388Z"
+      }
+    },
+    {
+      "id": 23,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 11,
+        "totalAmount": 24,
+        "createdAt": "2024-07-04T13:55:31.579Z",
+        "updatedAt": "2024-07-04T13:55:31.579Z"
+      }
+    },
+    {
+      "id": 24,
+      "attributes": {
+        "yearPeriod": 2022,
+        "monthPeriod": 12,
+        "totalAmount": 25,
+        "createdAt": "2024-07-04T13:55:40.348Z",
+        "updatedAt": "2024-07-04T13:55:40.348Z"
+      }
+    },
+    {
+      "id": 25,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 1,
+        "totalAmount": 103.1,
+        "createdAt": "2024-07-04T13:56:30.771Z",
+        "updatedAt": "2024-07-04T13:56:30.771Z"
+      }
+    },
+    {
+      "id": 26,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 2,
+        "totalAmount": 104.2,
+        "createdAt": "2024-07-04T13:56:41.674Z",
+        "updatedAt": "2024-07-04T13:56:41.674Z"
+      }
+    },
+    {
+      "id": 27,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 3,
+        "totalAmount": 105.3,
+        "createdAt": "2024-07-04T13:57:05.675Z",
+        "updatedAt": "2024-07-04T13:57:05.675Z"
+      }
+    },
+    {
+      "id": 28,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 4,
+        "totalAmount": 106.4,
+        "createdAt": "2024-07-04T13:57:19.701Z",
+        "updatedAt": "2024-07-04T13:57:19.701Z"
+      }
+    },
+    {
+      "id": 29,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 5,
+        "totalAmount": 107.5,
+        "createdAt": "2024-07-04T13:57:37.072Z",
+        "updatedAt": "2024-07-04T13:57:37.072Z"
+      }
+    },
+    {
+      "id": 30,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 6,
+        "totalAmount": 100,
+        "createdAt": "2024-07-04T13:57:46.673Z",
+        "updatedAt": "2024-07-04T13:57:46.673Z"
+      }
+    },
+    {
+      "id": 31,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 7,
+        "totalAmount": 107.7,
+        "createdAt": "2024-07-04T13:58:00.884Z",
+        "updatedAt": "2024-07-04T13:58:00.884Z"
+      }
+    },
+    {
+      "id": 32,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 8,
+        "totalAmount": 108.8,
+        "createdAt": "2024-07-04T13:58:15.969Z",
+        "updatedAt": "2024-07-04T13:58:15.969Z"
+      }
+    },
+    {
+      "id": 33,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 9,
+        "totalAmount": 109.9,
+        "createdAt": "2024-07-04T13:58:27.048Z",
+        "updatedAt": "2024-07-04T13:58:27.048Z"
+      }
+    },
+    {
+      "id": 34,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 10,
+        "totalAmount": 110,
+        "createdAt": "2024-07-04T13:58:35.947Z",
+        "updatedAt": "2024-07-04T13:58:35.947Z"
+      }
+    },
+    {
+      "id": 35,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 11,
+        "totalAmount": 1100.03,
+        "createdAt": "2024-07-04T13:58:52.332Z",
+        "updatedAt": "2024-07-04T13:58:52.332Z"
+      }
+    },
+    {
+      "id": 36,
+      "attributes": {
+        "yearPeriod": 2023,
+        "monthPeriod": 12,
+        "totalAmount": 100.2,
+        "createdAt": "2024-07-04T13:59:10.857Z",
+        "updatedAt": "2024-07-04T13:59:10.857Z"
+      }
+    }
+  ]
+}
