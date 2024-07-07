@@ -160,7 +160,8 @@ app.post("/api/token/refresh", (req, res) => {
         expiresIn: "5m",
       }
     );
-    res.json({ accessToken, refreshToken });
+    res.cookie("refreshToken", refreshToken, { httpOnly: true, path: "/" });
+    res.json({ accessToken });
   });
 });
 // Middleware to authenticate access token
