@@ -153,7 +153,14 @@ app.post("/api/token/refresh", (req, res) => {
         expiresIn: "2m",
       }
     );
-    res.json({ accessToken });
+    const refreshToken = jwt.sign(
+      { identifier: user.identifier, id: 2 },
+      refreshTokenSecret,
+      {
+        expiresIn: "5m",
+      }
+    );
+    res.json({ accessToken, refreshToken });
   });
 });
 // Middleware to authenticate access token
